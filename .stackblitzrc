@@ -1,0 +1,5 @@
+{
+  "startCommand": "pnpm next dev",
+  "installDependencies": true
+}
+  
